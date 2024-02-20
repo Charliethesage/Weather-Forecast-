@@ -12,7 +12,7 @@ function Footer() {
     <>
       <footer className="footer">
         <a
-          href="https://github.com/hicodersofficial/weather-app"
+          href="https://github.com/Charliethesage/Weather-Forecast-"
           target="_blank"
           rel="noreferrer"
           style={isDark ? anchorStyle : null}
@@ -20,23 +20,23 @@ function Footer() {
           <i class="fa-brands fa-github"></i> <span>GitHub</span>
         </a>
         <a
-          href="https://github.com/hicodersofficial/weather-app"
+          href="https://rubancharles.vercel.app/"
           target="_blank"
           rel="noreferrer"
           style={isDark ? anchorStyle : null}
         >
-          <i class="fa-solid fa-code-fork"></i> <span>Fork</span>
+          <i class="fa-solid fa-user-tie"></i> <span>Portfolio</span>
         </a>
         <a
-          href="https://github.com/hicodersofficial/weather-app"
+          href="https://www.linkedin.com/in/ruban-charles-aa1239165/"
           target="_blank"
           rel="noreferrer"
           style={isDark ? anchorStyle : null}
         >
-          <i class="fa-solid fa-star"></i> <span>Star</span>
+          <i class="fa-brands fa-linkedin"></i> <span>LinkedIn</span>
         </a>
         <a
-          href="https://www.instagram.com/p/CfoixJ0vM_P/"
+          href="https://www.instagram.com/charli_e_963/"
           target="_blank"
           rel="noreferrer"
           style={isDark ? anchorStyle : null}
