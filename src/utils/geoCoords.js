@@ -10,7 +10,7 @@ function geoCoords() {
         }
       );
     } else {
-      console.log("Geo Location not supported");
+      console.log("Oops something went wrong");
     }
   });
 }
